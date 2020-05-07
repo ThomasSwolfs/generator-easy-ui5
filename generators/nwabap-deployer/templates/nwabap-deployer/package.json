@@ -1,0 +1,11 @@
+{
+    "name": "nwabap-deployer",
+    "engines": {
+        "node": "12.x.x"
+    },
+    "dependencies": {
+        "ui5-task-nwabap-deployer": "*"
+    },
+    "scripts": {
+    }
+}

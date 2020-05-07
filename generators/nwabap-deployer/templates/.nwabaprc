@@ -1,0 +1,9 @@
+{
+    "base": "./dist",
+    "conn_server": "",
+    "conn_user": "",
+    "conn_password": "!",
+    "abap_package": "$TMP",
+    "abap_bsp": "",
+    "abap_bsp_text": ""
+}
